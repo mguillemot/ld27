@@ -1,0 +1,7 @@
+Library/
+Temp/
+Build/
+Server/.idea
+*.csproj
+*.unityproj
+*.sln
